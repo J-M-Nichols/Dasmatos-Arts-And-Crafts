@@ -1,7 +1,7 @@
 # Dasmoto's Arts & Crafts
 
 ## Project Overview
-Dasmoto's Arts & Crafts is a simple static website project from Codecademy's "Deploying Websites" lesson. The project showcases various arts and crafts supplies and demonstrates basic HTML and CSS skills.
+Dasmoto's Arts & Crafts is a simple static website project from [Codecademy](https://www.codecademy.com/)'s "Deploying Websites" lesson. The project showcases various arts and crafts supplies and demonstrates basic HTML and CSS skills.
 
 ## Features
 - A homepage with a list of products
@@ -14,7 +14,7 @@ Dasmoto's Arts & Crafts is a simple static website project from Codecademy's "De
    git clone <repository-url>
 
 ## Live Demo
-The project is hosted on GitHub Pages and can be viewed here.
+The project is hosted on GitHub Pages and can be viewed [here](https://j-m-nichols.github.io/Dasmatos-Arts-And-Crafts/).
 
 ## Contributing
 Feel free to fork the repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
